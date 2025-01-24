@@ -17,7 +17,7 @@ public class Practiceweek2 {
         int a= 4;
         System.out.println(a);
         a = a+2;
-        System.out.println(a);
+        System.out.println(a);//heyyy buddy
 // are we really doing this?
         // wow man you read that right?
         // TODO code application logic here
