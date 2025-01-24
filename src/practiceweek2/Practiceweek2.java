@@ -18,7 +18,7 @@ public class Practiceweek2 {
         System.out.println(a);
         a = a+2;
         System.out.println(a);
-
+// are we really doing this?
         // TODO code application logic here
     }
     
