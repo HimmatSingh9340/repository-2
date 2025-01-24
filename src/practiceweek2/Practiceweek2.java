@@ -19,6 +19,7 @@ public class Practiceweek2 {
         a = a+2;
         System.out.println(a);
 // are we really doing this?
+        // wow man you read that right?
         // TODO code application logic here
     }
     
